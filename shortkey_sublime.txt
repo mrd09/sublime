@@ -1,0 +1,64 @@
+Short key
+
+Code Folding
+	Ctrl + Shift + [: Fold (Minimize)
+	Ctrl + Shift + ]: Unfold
+
+Moving, Jump
+
+	Ctrl + P: jump to any file(header, title)
+
+	Ctrl + G: jump to line
+
+	Ctrl + F: search
+
+	Crrl + Shift + T: ReOpen the recently close file
+
+	Ctrl + PageUp/PageDown: switch between files
+
+	F12: Jump to definition
+
+	Alt + - : Jumpback where last cursor is
+
+	Shift + Alt + - : Switch backward before use "Alt + -"
+
+	Ctrl + Home: Jump to beginning of file
+
+	Ctrl + End: Jump to end of file
+
+Selection
+
+	Shift + Right mouse: Column/Vertical selection
+
+	Ctrl + D: Bôi đen từ hiện tại
+
+Capitialization
+
+	Ctrl + K then Ctrl + U right away: Upper case the selection word
+
+	Ctrl + K then Ctrl + L right away: Lower case the selection
+
+Delete Word
+
+	Ctrl + K then Ctrl + K right away: delete to the end of line
+
+	Ctrl + K then Ctrl + Backscape right away: delete to the beginning of line
+
+	Ctrl + Backscape: delete one word backward
+
+	Ctrl + Delete: delete one word forward
+
+Line
+	Ctrl + ] :Unindent(thụt tab dòng)
+
+	Ctrl + [: indent(xóa thụt tab dòng)
+
+	Ctrl + Enter: Thêm một dòng trống bên dưới (cursor cần ở đầu dòng)
+
+	Shift + Enter: Thêm một dòng trống bên trên (cursor cần ở đầu dòng)
+
+Build and Run code
+	Ctrl + Shift + B: First time running: Build with: ..
+	Ctrl + B: Build
+
+

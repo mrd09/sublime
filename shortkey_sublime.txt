@@ -26,6 +26,8 @@ Moving, Jump
 
 	Ctrl + End: Jump to end of file
 
+	Ctrl + M: Jump to Matching Bracket
+
 Selection
 
 	Shift + Right mouse: Column/Vertical selection

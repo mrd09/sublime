@@ -1,5 +1,9 @@
 Short key
 
+Place multiple line cursor
+	Select all line want to place cursor
+	Press "ctrl + shift + l" : Place multiple cursor at the end of each line
+
 Code Folding
 	Ctrl + Shift + [: Fold (Minimize)
 	Ctrl + Shift + ]: Unfold

@@ -1,8 +1,15 @@
 Short key
 
-Place multiple line cursor
+Place cursor
+  1. Place cursor at beginning and at the end of the range of text
+	Place cursor at the beginning of the text selected in your mind
+	"Press ctrl and click" at "the end of the line"
+	=> will select the text with 2 cursor at the beginning and the end of text
+
+  2. Place cursor at end/beginning of multiple lines:	
 	Select all line want to place cursor
 	Press "ctrl + shift + l" : Place multiple cursor at the end of each line
+	  => If want to place at the beginning Press Home
 
 Code Folding
 	Ctrl + Shift + [: Fold (Minimize)

@@ -1,16 +1,20 @@
 Short key
 
-Open file under cursor by double click: install plugin:
+**Comment short key**
+- Press "Ctrl + /" to comment code
+
+**Open file under cursor by double click: install plugin**:
 - [Install ref](https://gist.github.com/Suor/1344471)
 - Key Binding: Subl 3: keep open_file_at_cursor -> Save
 - Place cursor at file path then double click 
 
-Search in all files in a project+folder+... in Sublime Text 3:
+**Search in all files in a project+folder+... in Sublime Text 3**:
 - Press "Ctrl + Shift +f"
 	+ Find: "key word". Ex: elasticsearch:
 	+ Where: "Path want to search or project...". Ex: ~/knowledge/qa_eq
 - Trick in Find: <project>,<current file>,<open files>,<open folders>,-*.yml,-*.md
 - Result file:
+	
 ```
 Searching 83 files for "elasticsearch:" (regex)
 
@@ -24,7 +28,7 @@ Searching 83 files for "elasticsearch:" (regex)
 1 match in 1 file
 ```
 
-Place cursor
+**Place cursor**
   1. Place cursor at beginning and at the end of the range of text
 	Place cursor at the beginning of the text selected in your mind
 	"Press ctrl + left-click" at "the end of the line"
@@ -37,11 +41,11 @@ Place cursor
   2.2. Place cursor at end/beginning of multiple lines:(method 2)
   	Press "shift + Right-click" then let go when text select desired
 
-Code Folding
+**Code Folding**
 	Ctrl + Shift + [: Fold (Minimize)
 	Ctrl + Shift + ]: Unfold
 
-Moving, Jump
+**Moving, Jump**
 
 	Ctrl + P: jump to any file(header, title)
 

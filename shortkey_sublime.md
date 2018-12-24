@@ -1,5 +1,10 @@
 Short key
 
+Open file under cursor by double click: install plugin:
+- [Install ref](https://gist.github.com/Suor/1344471)
+- Key Binding: Subl 3: keep open_file_at_cursor -> Save
+- Place cursor at file path then double click 
+
 Search in all files in a project+folder+... in Sublime Text 3:
 - Press "Ctrl + Shift +f"
 	+ Find: "key word". Ex: elasticsearch:
@@ -8,17 +13,6 @@ Search in all files in a project+folder+... in Sublime Text 3:
 - Result file:
 ```
 Searching 83 files for "elasticsearch:" (regex)
-
-/home/mrd09/knowledge/qa_eq/group_vars/qa_eq:
-  560    content_packs_backup_dir: /var/backups/contentpacks
-  561  
-  562: elasticsearch:
-  563    host: "{{ groups['elasticsearch'][0] }}"
-  564    port_http: 9200
-
-1 match in 1 file
-
-Searching 10 files for "elasticsearch:" (regex)
 
 /home/mrd09/knowledge/qa_eq/group_vars/qa_eq:
   560    content_packs_backup_dir: /var/backups/contentpacks

@@ -1,6 +1,34 @@
 Short key
 
+Search in all files in a project+folder+... in Sublime Text 3:
+- Press "Ctrl + Shift +f"
+	+ Find: "key word". Ex: elasticsearch:
+	+ Where: "Path want to search or project...". Ex: ~/knowledge/qa_eq
+- Trick in Find: <project>,<current file>,<open files>,<open folders>,-*.yml,-*.md
+- Result file:
+```
+Searching 83 files for "elasticsearch:" (regex)
 
+/home/mrd09/knowledge/qa_eq/group_vars/qa_eq:
+  560    content_packs_backup_dir: /var/backups/contentpacks
+  561  
+  562: elasticsearch:
+  563    host: "{{ groups['elasticsearch'][0] }}"
+  564    port_http: 9200
+
+1 match in 1 file
+
+Searching 10 files for "elasticsearch:" (regex)
+
+/home/mrd09/knowledge/qa_eq/group_vars/qa_eq:
+  560    content_packs_backup_dir: /var/backups/contentpacks
+  561  
+  562: elasticsearch:
+  563    host: "{{ groups['elasticsearch'][0] }}"
+  564    port_http: 9200
+
+1 match in 1 file
+```
 
 Place cursor
   1. Place cursor at beginning and at the end of the range of text

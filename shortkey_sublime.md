@@ -1,18 +1,18 @@
 Short key
+**File Advance Operation**
+- Press "Ctrt + Shift +P": Install Plugin: [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
+- Key Binding/User/ : Set hot key for desired operation:
+	+ 
 
 **Comment short key**
 - Press "Ctrl + /" to comment code
-
-**Open file under cursor by double click: install plugin**:
-- [Install ref](https://gist.github.com/Suor/1344471)
-- Key Binding: Subl 3: keep open_file_at_cursor -> Save
-- Place cursor at file path then double click 
 
 **Search in all files in a project+folder+... in Sublime Text 3**:
 - Press "Ctrl + Shift +f"
 	+ Find: "key word". Ex: elasticsearch:
 	+ Where: "Path want to search or project...". Ex: ~/knowledge/qa_eq
 - Trick in Find: ```<project>,<current file>,<open files>,<open folders>,-*.yml,-*.md```
+- Double Click for jump to file
 - Result file:
 	
 ```

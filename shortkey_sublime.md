@@ -12,7 +12,7 @@ Short key
 - Press "Ctrl + Shift +f"
 	+ Find: "key word". Ex: elasticsearch:
 	+ Where: "Path want to search or project...". Ex: ~/knowledge/qa_eq
-- Trick in Find: <project>,<current file>,<open files>,<open folders>,-*.yml,-*.md
+- Trick in Find: ```<project>,<current file>,<open files>,<open folders>,-*.yml,-*.md```
 - Result file:
 	
 ```

@@ -1,4 +1,11 @@
 Short key
+**Group multiple folder**
+- Step1: Open first folder: File/Open Folder 
+- Step2: Add new group: View/Layout/Columns: 2 (Short key: Alt+Shift+2)
+- Step3: Minimize the First folder in first side bar
+- Step4: Switch to group 2: "Ctrl+2" (Switch back to group 1: Ctrl+1)
+- Step5: Open second folder: File/Open Folder -> drag the folder to sidebar
+
 **File Advance Operation**
 - Press "Ctrt + Shift +P": Install Plugin: [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 - Key Binding/User/ : Set hot key for desired operation:

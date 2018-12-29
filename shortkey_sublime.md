@@ -2,7 +2,12 @@ Short key
 **File Advance Operation**
 - Press "Ctrt + Shift +P": Install Plugin: [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 - Key Binding/User/ : Set hot key for desired operation:
-	+ 
+```
+[
+	{ "keys": ["ctrl+alt+c"], "command": "side_bar_copy_name" },
+	{ "keys": ["alt+p"], "command": "side_bar_copy_path" }
+]
+```
 
 **Comment short key**
 - Press "Ctrl + /" to comment code

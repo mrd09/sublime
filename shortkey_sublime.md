@@ -1,4 +1,4 @@
-Short key
+# Short key
 **Group multiple folder**
 - Step1: Open first folder: File/Open Folder 
 - Step2: Add new group: View/Layout/Columns: 2 (Short key: Alt+Shift+2)

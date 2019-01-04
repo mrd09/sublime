@@ -1,4 +1,19 @@
 # Short key
+**MarkdownEditing to use MarkDown shortkey**
+- Install package [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing#key-bindings)
+- If head with error: Error loading syntax file "Packages/Markdown/Markdown.sublime-syntax": Unable to read Packages/Markdown/Markdown.sublime-syntax
+	=> just remove the "Markdown" in "ignored_packages"
+- Useful shortkey:
+	+ Ctrl + r: quick navigation for all headers.
+	+ Ctrl + Shift + PageUp/PageDown: Navigating to header
+	+ Shift + Tab 	: Fold/Unfold current section.
+	+ Alt + B: Bold
+	+ Alt + I: Italic
+	+ Select text + Press backtick/Asterisks/underscores/~ : auto wrap with backtick..
+	+ Tips to use both Bold and Italic: `**_test_**`
+	+ List: Enter at the end of line will trigger auto list order: `* - +`: Use Tab or Shift + Tab: Indent/Unindent
+	+ Link: Can jump between bracket: `Ctrl + M`
+
 **Group multiple folder**
 - Step1: Open first folder: File/Open Folder 
 - Step2: Add new group: View/Layout/Columns: 2 (Short key: Alt+Shift+2)

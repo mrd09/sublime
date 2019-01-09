@@ -13,6 +13,24 @@
 	+ Tips to use both Bold and Italic: `**_test_**`
 	+ List: Enter at the end of line will trigger auto list order: `* - +`: Use Tab or Shift + Tab: Indent/Unindent
 	+ Link: Can jump between bracket: `Ctrl + M`
+- Sample config for MarkDown: Preferences/Package Settings/Markdown Editing/Markdown * Settings - User
+```
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"draw_centered": false,
+	"line_numbers": true,
+	"gutter": true,
+    "margin": 10,
+    "word_wrap": "auto",
+    "wrap_width": 0,
+}
+```
 
 **Group multiple folder**
 - Step1: Open first folder: File/Open Folder 

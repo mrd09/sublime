@@ -52,6 +52,16 @@
 **Comment short key**
 - Press "Ctrl + /" to comment code
 
+**Search for odd/even line
+```
+1. Find: Ctrl+F
+2. If regular expressions are not already enabled, enable them: Alt+R
+3. Type in the expression .*\n.*\n
+4. Find all: Alt+Enter
+5. Press left arrow to get rid of the selections, leaving just the cursors: ←
+6. You now have a cursor at the start of every odd-numbered line. If you wanted even-numbered lines, press down: ↓
+```
+
 **Search in all files in a project+folder+... in Sublime Text 3**:
 - Press "Ctrl + Shift +f"
 	+ Find: "key word". Ex: elasticsearch:

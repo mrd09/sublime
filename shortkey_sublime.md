@@ -52,7 +52,7 @@
 **Comment short key**
 - Press "Ctrl + /" to comment code
 
-**Search for odd/even line
+**Search for odd/even line**
 ```
 1. Find: Ctrl+F
 2. If regular expressions are not already enabled, enable them: Alt+R
